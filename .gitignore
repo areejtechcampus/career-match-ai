@@ -1,0 +1,8 @@
+.streamlit/secrets.toml
+.env
+uploads/*
+outputs/*
+reports/*
+__pycache__/
+.venv/
+.ipynb_checkpoints/

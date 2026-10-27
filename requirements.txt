@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+requests
+beautifulsoup4
+PyMuPDF
+Pillow
+pyzbar
+openpyxl
+scikit-learn
+joblib
+langchain
+langchain-openai
+langgraph
+openai
